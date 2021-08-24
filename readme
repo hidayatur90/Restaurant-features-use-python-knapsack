@@ -1,0 +1,4 @@
+A simple application for handling purchases, starting from displaying menu lists, orders, and admins in table form.
+For the database only use CSV (for data) and JSON (for login admin) by utilizing index access on each data.
+The location of the knapsack algorithm used is on line 281-324 using Dynamic Programming by providing a multidimensional list to filter each data.
+
